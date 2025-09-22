@@ -44,8 +44,8 @@ Split the image (boy.jpg) into B, G, R components and display the channels
 import cv2
 import numpy as np
 import matplotlib.pyplot as plt
-img =cv2.imread('Eagle_in_Flight.jpg',cv2.IMREAD_COLOR)
-img_rgb = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
+img =cv2.imread('qno. 1.jpg',cv2.IMREAD_COLOR)
+img_rgb = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)y6i
 ```
 
 #### 2. Print the image width, height & Channel.
