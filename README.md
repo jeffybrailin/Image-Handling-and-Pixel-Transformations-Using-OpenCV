@@ -1,6 +1,6 @@
 ## Ex No 1
-
-
+### REG.NO: 212223040076
+### Name : JEFFY BRAILIN T
 # Image-Handling-and-Pixel-Transformations-Using-OpenCV 
 
 ## AIM:
